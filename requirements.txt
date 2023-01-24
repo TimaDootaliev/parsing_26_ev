@@ -1,0 +1,4 @@
+# для отправки запросов
+requests
+# фильтрация html
+BeautifulSoup4
